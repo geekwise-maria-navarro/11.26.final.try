@@ -4,4 +4,4 @@ FROM gitpod/workspace-full:latest
 
 USER gitpod
 
-RUN curl http://cli-assests.heroku.com/install-ubuntu.sh | sh
+RUN curl https://cli-assests.heroku.com/install-ubuntu.sh | sh
